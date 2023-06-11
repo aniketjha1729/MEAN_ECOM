@@ -1,10 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 body,
 .p-component {
   font-family: 'Open Sans', sans-serif;
 }
 
 a {
-  text-align: none;
+  text-decoration: none;
 }
 
 ul {
